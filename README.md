@@ -1,11 +1,16 @@
-# Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
+## Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
 ### DATE: 16-09-2025                                                                     
 ### REGISTER NUMBER : 212223220114
-### Aim: To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts. Case study 1 with Straightforward Prompts, Tabular Format Prompting and Preceding Question Prompting  
+### Aim
 
-### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
-Procedure:
+To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts. Case study 1 with Straightforward Prompts, Tabular Format Prompting and Preceding Question Prompting  
+
+### Explanation 
+
+Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
+# Procedure:
+
 1.	Define the Scenario and Use Case:
 Scenario:
 The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
@@ -37,7 +42,7 @@ Persona and Context Prompts:
 
 ## Output:
 
-1. Straightforward Prompts
+## 1. Straightforward Prompts
 
 Definition: A straightforward prompt is direct and explicit. The AI is given a clear instruction or question, with minimal context or formatting requirements.
 
@@ -53,7 +58,7 @@ Expected AI Response:
 
 Use case: Ideal for quick responses to common customer queries like product troubleshooting, account help, or order status.
 
-2. Tabular Format Prompting
+## 2. Tabular Format Prompting
 
 Definition: The AI is instructed to present information in a table format. This is useful for comparing options, displaying step-by-step procedures, or organizing data clearly.
 
@@ -72,7 +77,7 @@ Prompt:
 
 Use case: Helps users quickly understand and compare solutions for multiple problems.
 
-3. Missing Word Prompting
+## 3. Missing Word Prompting
 
 Definition: Part of the prompt is intentionally left blank, and the AI must fill in the missing word or phrase. This is effective for quizzes, interactive guidance, or testing comprehension.
 
@@ -89,7 +94,7 @@ Expected AI Response:
 
 Use case: Engages users interactively, or provides step-by-step guidance where users can fill in missing information.
 
-4. Preceding Question Prompting
+## 4. Preceding Question Prompting
 
 Definition: The AI is given a context or preceding question to guide its next response. This ensures coherent multi-turn conversations in chatbots.
 
